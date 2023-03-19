@@ -1,5 +1,5 @@
 # Breast-Cancer-Survivability-Prediction
-## 1.1 Introduction to Breast Cancer Survivability Prediction
+## Introduction to Breast Cancer Survivability Prediction
 Breast cancer is cancer that forms in the cells of the breasts. After skin cancer, breast
 cancer is the second most common cancer diagnosed in women in the United States,
 according to the Division of Cancer Prevention and Control, Centers for Disease Control and
@@ -21,7 +21,7 @@ breast cancer can be influenced by hormonal, lifestyle, and environmental factor
 exact cause is not known. It is believed to result from a combination of one's genetic makeup
 and environment
 
-## 1.2 Problem Statement
+## Problem Statement
 1. Can we use machine learning and deep learning to predict the survivability of breast
 cancer patients using the METABRIC dataset?
 2. Can deep learning methods improve the prediction accuracy of survivability in breast
@@ -30,7 +30,7 @@ cancer patients compared to traditional machine learning algorithms?
 model to achieve the best performance in predicting survivability of breast cancer
 patients using the METABRIC dataset?
 
-## 1.3 Objectives
+## Objectives
 1. Train three models, including two machine learning models and one deep learning
 model, to forecast the survivability of breast cancer patients using the METABRIC
 dataset.
